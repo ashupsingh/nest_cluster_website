@@ -1,6 +1,6 @@
 # NE Project
 
-**Deployed Link:** [https://nest-cluster-na85vyf5q-portfolios-projects-ca886605.vercel.app](https://nest-cluster-na85vyf5q-portfolios-projects-ca886605.vercel.app)
+**Deployed Link:** [[https://nest-cluster-na85vyf5q-portfolios-projects-ca886605.vercel.app](https://nest-cluster-kappa.vercel.app/)](https://nest-cluster-na85vyf5q-portfolios-projects-ca886605.vercel.app)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
